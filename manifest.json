@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Remover ads",
-    "version": "1.4",
-    "description": "Extensión para remover ads",
+    "version": "2.3",
+    "description": "Extensión para remover ads y redireccionar en ikigai y templessccan",
     "content_scripts":[
         {
             "matches":["<all_urls>"],
